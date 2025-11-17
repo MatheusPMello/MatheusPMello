@@ -1,16 +1,16 @@
 ### Hi there, I'm Matheus Pinheiro Mello 👋
 
-I'm a **Full-Stack Software Developer** transitioning from a strong background in Business Analysis and Quality Assurance (QA). 
+I'm a **Full-Stack Software Developer** with a strong background in Business Analysis and Quality Assurance (QA).
 
-My experience in translating business needs into technical requirements and performing detailed QA testing now fuels my passion for building robust, user-focused applications from the ground up.
+I leverage my experience in translating business needs and ensuring software quality to build robust, user-focused applications. I'm passionate about bridging the gap between product vision and technical execution.
 
 ---
 
-### 👨‍💻 What I'm Focused On
+### 🚀 My Current Focus
 
-* 🎓 Solidifying my skills through the **IBM Full-Stack JavaScript Developer Professional Certificate**.
-* 🛠️ Actively building projects with a focus on clean code and automated best practices (using tools like ESLint & Prettier).
-* 🌱 Exploring how my BA/QA background can help bridge the gap between product teams and engineering.
+* 🎓 Completing the **IBM Full-Stack JavaScript Developer Professional Certificate**.
+* 🛠️ Building practical applications with a focus on clean code and automated best practices (ESLint & Prettier).
+* 📈 Exploring new challenges in the **FinTech** space.
 
 ---
 
