@@ -8,7 +8,6 @@ I leverage my experience in translating business needs and ensuring software qua
 
 ### 🚀 My Current Focus
 
-* 🎓 Completing the **IBM Full-Stack JavaScript Developer Professional Certificate**.
 * 🛠️ Building practical applications with a focus on clean code and automated best practices (ESLint & Prettier).
 * 📈 Exploring new challenges in the **FinTech** space.
 
