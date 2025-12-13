@@ -10,8 +10,8 @@ I don't just write code; I build products. I combine technical expertise in Reac
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Portfolio Rebalancer](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)** | FinTech app to calculate asset allocation. | `React` `Node.js` `Postgres` `Docker` |
-| **[Pomodoro Focus](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)** | Custom timer engine with advanced State Management. | `React Hooks` `CSS3` |
+| **[Portfolio Rebalancer](https://github.com/MatheusPMello/portfolio-rebalancer)** | FinTech app to calculate asset allocation. | `React` `Node.js` `Postgres` `Docker` |
+| **[Pomodoro Focus](https://github.com/MatheusPMello/pomodoro-timer)** | Custom timer engine with advanced State Management. | `React Hooks` `CSS3` |
 
 *(👆 Click to see the code)*
 
