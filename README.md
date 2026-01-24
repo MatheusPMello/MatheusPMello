@@ -12,7 +12,7 @@ I don't just write code; I build products. I combine technical expertise in Reac
 | :--- | :--- | :--- |
 | **[Portfolio Rebalancer](https://github.com/MatheusPMello/portfolio-rebalancer)** | FinTech app to calculate asset allocation. | `React` `Node.js` `Postgres` `Docker` |
 | **[Pomodoro Focus](https://github.com/MatheusPMello/pomodoro-timer)** | Custom timer engine with advanced State Management. | `React Hooks` `CSS3` |
-| **[Financial Fundamental Analysis API](https://github.com/MatheusPMello/financial-fundamental-analysis-API)** | REST API for real-time fundamental stock analysis. | `Node.JS` | `Node.JS` |
+| **[Financial Fundamental Analysis API](https://github.com/MatheusPMello/financial-fundamental-analysis-API)** | REST API for real-time fundamental stock analysis. | `Node.JS` `Docker` |
 
 *(👆 Click to see the code)*
 
